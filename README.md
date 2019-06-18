@@ -116,4 +116,9 @@ services:
     links:
       - mongodb
 ```
-# Docker-Intro
+
+To deploy a docker-compose file, type the following:   
+
+```bash
+Docker-compose up
+```
